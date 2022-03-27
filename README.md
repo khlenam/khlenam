@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khlenam
+- 👋 Hi, I’m @Klenam
 - 👀 I’m interested in Data analysis and aDigital Marketing
 - 🌱 I’m currently learning Google Data Analytics
 - 💞️ I’m looking to collaborate on solving big business problems
